@@ -1,1 +1,1 @@
-# Image-Generation-and-Background-Replacement-using-Stable-Diffusion
+# Image Generation and Background Replacement using Stable Diffusion
